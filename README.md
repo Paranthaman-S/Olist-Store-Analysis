@@ -12,14 +12,21 @@
 
 ## Overview
 
-- The data reflects a robust lending environment.
-- Higher loan amounts are increasingly managed successfully.
-- Borrowers with stable financial backgrounds (higher grades and verified status) manage loans better.
-- The institution demonstrates efficient credit and collection management.
-- High repayment rates are observed across different demographics and states.
-- Tailoring products to leverage these trends is beneficial.
-- Focusing on verified and financially stable customers can enhance performance.
-- Understanding regional variations can further enhance portfolio performance and customer satisfaction.
+- The project analyzes KPIs from the Olist e-commerce dataset.
+- Focuses on understanding customer behavior trends.
+- Examines customer payment preferences across various methods.
+- Analyzes operational efficiency, particularly in delivery times.
+- Aims to refine business strategies based on data-driven insights.
+- Seeks to improve customer satisfaction through enhanced service.
+- Investigates trends in order volumes between different time periods.
+- Evaluates the relationship between delivery times and customer review scores.
+- Provides actionable insights for improving sales performance.
+- Aims to streamline overall business operations for efficiency and growth.
+
+
+
+
+
 
 
 ### To access this project 
