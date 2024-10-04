@@ -2,8 +2,7 @@
 
 ## Project Objective
 
-- This is Bank loan of Customers project where we were provided with 2 datasets with .csv extension files having 39k rows each and the objective was to analyze the growth that bank got within given years in loans.
-- We used MS-Excel, MySQL for analyzing, cleaning and removing duplicates from dataset and prepared dashboard using Tableau and PowerBI tools where we did calculations, merging and prepared interactive dashboards.
+- This project analyzes Olist e-commerce KPIs to understand customer behavior, payment preferences, and operational efficiency, aiming to refine business strategies, improve customer satisfaction, and streamline operations. By examining trends in order volumes, payment methods, delivery times, and customer review scores, the project seeks to provide actionable insights that can enhance sales performance and optimize overall business operations.
 
 ## Screenshots
     
